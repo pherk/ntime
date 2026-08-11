@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://expath.org/ns/pkg" name="http://eNahar.org/ns/lib/ical/ntime" abbrev="ntime" version="0.4.0" spec="1.0">
+    <title>Time Management</title>
+    <xquery>
+    <namespace>http://eNahar.org/ns/lib/ical/ntime</namespace>
+        <file>timePeriod.xqm</file>
+    </xquery>
+    <xquery>
+    <namespace>http://eNahar.org/ns/lib/ical/allen</namespace>
+        <file>allen.xqm</file>
+    </xquery>
+    <xquery>
+    <namespace>http://eNahar.org/ns/lib/ical/tlm</namespace>
+        <file>timeLineMoment.xqm</file>
+    </xquery>
+    <xquery>
+    <namespace>http://eNahar.org/ns/lib/ical/ical</namespace>
+        <file>ical.xqm</file>
+    </xquery>
+    <xquery>
+    <namespace>http://eNahar.org/ns/lib/ical/ice</namespace>
+        <file>ice.xqm</file>
+    </xquery>
+    <xquery>
+    <namespace>http://eNahar.org/ns/lib/ical/date</namespace>
+        <file>date.xqm</file>
+    </xquery>
+    <xquery>
+    <namespace>http://eNahar.org/ns/lib/ical/xxpath</namespace>
+        <file>xxpath.xqm</file>
+    </xquery>
+</package>
